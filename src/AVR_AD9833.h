@@ -1,5 +1,5 @@
-#ifndef MD_AD9833_H
-#define MD_AD9833_H
+#ifndef AVR_AD9833_H
+#define AVR_AD9833_H
 
 #include <stdint.h>
 #include <stdbool.h>
@@ -179,4 +179,4 @@ uint32_t AD_calcFreq(float f);
  */
 uint16_t AD_calcPhase(float a);
 
-#endif // MD_AD9833_H
+#endif // AVR_AD9833_H
