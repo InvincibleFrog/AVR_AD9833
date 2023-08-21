@@ -1,4 +1,4 @@
-#include "MD_AD9833.h"
+#include "AVR_AD9833.h"
 #include <avr/io.h>
 
 const uint8_t AD_B28 = 13;
