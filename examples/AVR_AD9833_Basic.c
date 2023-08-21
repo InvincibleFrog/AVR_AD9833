@@ -1,7 +1,7 @@
 #include <avr/io.h>
 #include <stdint.h>
 #include <stdlib.h>
-#include "MD_AD9833.h"
+#include "AVR_AD9833.h"
 
 int main(void)
 {
